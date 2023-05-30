@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474381084238",
+    "project_id": "ru-mirea-markin-lesson7",
+    "storage_bucket": "ru-mirea-markin-lesson7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474381084238:android:2e26f6b0115380f570851f",
+        "android_client_info": {
+          "package_name": "ru.mirea.markinaa.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM7XhBCNVmmZrlx5pEq9ZDmfAAxEL1V34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
